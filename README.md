@@ -7,4 +7,4 @@ In this Project, we are extracting reviews and ratings of the books from the jso
 
 There are two files, one is named as goodReads.py where the main code is present to execute all the tasks linearly and the other one is .ipynb where the testing is done to make sure every task is being executed properly giving the right output with no errors. After the completion of all tasks this file will be removed.
 
-######*Note* - Dataset is too large which is the reason why I couldn't upload the dataset file.
+*######Note* - Dataset is too large which is the reason why I couldn't upload the dataset file.
