@@ -1,5 +1,5 @@
 # GoodReads_Reviews_SentimentAnalysis
-Root Directory of the dataset - https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home
+*Root Directory of the dataset* - https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home
 
 Orignal Dataset - https://drive.google.com/uc?id=1908GDMdrhDN7sTaI_FelSHxbwcNM1EzR
 
